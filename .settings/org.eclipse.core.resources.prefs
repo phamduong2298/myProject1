@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/AdminService/AddFood.java=UTF-8
+encoding//src/AdminService/BillManage.java=UTF-8
+encoding//src/AdminService/BuyRequest.java=UTF-8
+encoding//src/AdminService/EditFood.java=UTF-8
+encoding//src/AdminService/FoodManage.java=UTF-8
+encoding//src/AdminService/ManageClient.java=UTF-8
+encoding//src/ClientService/ChangePw.java=UTF-8
+encoding//src/ClientService/ClientChoose.java=UTF-8
+encoding//src/ClientService/Confirm.java=UTF-8
+encoding//src/ClientService/LogIn.java=UTF-8
+encoding//src/ClientService/SignUp.java=UTF-8
+encoding//src/connect/FoodData.java=UTF-8
